@@ -1,44 +1,45 @@
-<h1 align="center">🚀 <strong>PORTFOLIO</strong> 🚀</h1>
+<h1 align="center">🔥 <strong>WST-SIS</strong> 🔥</h1>
 
 <p align="center">
-  <em>Unleash Creativity, Inspire Engagement, Elevate Presence</em>
+  <em>Streamlined Student Information System built with Laravel</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/jeamjim/WST-SIS?color=gray&label=last%20commit" alt="Last Commit"/>
-  <img src="https://img.shields.io/badge/update-yesterday-blue" alt="Update"/>
-  <img src="https://img.shields.io/badge/typescript-98.6%25-blue" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/framework-Laravel-red" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/php-8.2-blue" alt="PHP"/>
+  <img src="https://img.shields.io/badge/bootstrap-5.3-purple" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/languages-3-lightgrey" alt="Languages"/>
 </p>
 
 ---
 
-### ✨ **Tech Stack**
+### ⚡ **Tech Stack**
 
-| JSON | Markdown | npm | JavaScript | React | TypeScript |
-|-------|----------|-----|------------|--------|------------|
-| ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) |
+| PHP | Laravel | Composer | MySQL | Bootstrap | Blade |
+|------|---------|----------|--------|-----------|-------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![Blade](https://img.shields.io/badge/Blade-FF2D20?logo=laravel&logoColor=white) |
 
 ---
 
-### 📌 **Features**
-- 🎨 **Modern Design** — Clean and minimal portfolio interface  
-- ⚡ **Fast and Responsive** — Optimized for performance  
-- 🔧 **Easy to Customize** — Simple configuration for personal needs  
+### 🌟 **Features**
+- 📚 **Student Management** — Manage student profiles, grades, and enrollment  
+- 🔐 **Authentication & Authorization** — Built-in Laravel Breeze with role-based access  
+- 🎨 **Responsive UI** — Powered by Bootstrap 5 for modern, mobile-first design  
+- 🛠 **RESTful APIs** — Easy integration with third-party services  
+- 🧪 **Testing Ready** — Includes PHPUnit for backend testing  
 
 ---
 
 ### 📂 **Project Setup**
 
+#### **1️⃣ Clone the repository**
 ```bash
-# Clone the repository
 git clone https://github.com/jeamjim/WST-SIS.git
-
-# Navigate to the project folder
 cd WST-SIS
 
-# Install dependencies
-npm install
+# Install PHP dependencies
+composer install
 
-# Start the development server
-npm run dev
+# Install frontend dependencies
+npm install && npm run build
