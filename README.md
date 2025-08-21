@@ -1,1 +1,3 @@
 # WST-SIS
+
+    Composer install
