@@ -2,7 +2,7 @@
 
 *Unleash Creativity, Inspire Engagement, Elevate Presence*
 
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo?color=gray&label=last%20commit) 
+![Last Commit](https://img.shields.io/github/last-commit/jeamjim/WST-SIS?color=gray&label=last%20commit) 
 ![Update](https://img.shields.io/badge/yesterday-blue) 
 ![TypeScript](https://img.shields.io/badge/typescript-98.6%25-blue) 
 ![Languages](https://img.shields.io/badge/languages-3-lightgrey)
